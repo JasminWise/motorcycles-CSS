@@ -1,0 +1,19 @@
+body{
+ background:lightblue;
+}
+h4{
+    color:white;
+}
+.purple{
+    color:rgb(150, 48, 197);
+}
+.italic{
+    font-style: italic;
+}
+.strong{
+    font-style:strong;
+}
+img{
+    width:300px;
+    height:200px;
+}
